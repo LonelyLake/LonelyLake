@@ -11,7 +11,7 @@ Junior Data Engineer building hands-on ETL pipelines and data infrastructure pro
 
 - 💼 **Current Role:** AI Research Intern @ Łukasiewicz – AI (R&D on AI agents & Python systems)
 - 🎓 **Education:** B.E. Informatics @ Silesian University of Technology (*Oct 2023 – Jan 2027*)
-- 📜 **Certification:** [DataCamp Data Engineer Associate](https://www.datacamp.com) (*Issued Jun 2026*)
+- 📜 **Certification:** [DataCamp Data Engineer Associate](https://www.datacamp.com/certificate/DEA0010088572223) (*Issued Jun 2026*)
 
 ---
 
