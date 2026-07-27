@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Maxim 👋
 
-<!--
-**LonelyLake/LonelyLake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Data Engineer & AI Research Intern at Łukasiewicz – AI**
 
-Here are some ideas to get you started:
+B.E. Informatics Student (Data Analysis Engineering) at Silesian University of Technology (PolSl).
+Junior Data Engineer building hands-on ETL pipelines and data infrastructure projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Background & Certifications
+
+- 💼 **Current Role:** AI Research Intern @ Łukasiewicz – AI (R&D on AI agents & Python systems)
+- 🎓 **Education:** B.E. Informatics @ Silesian University of Technology (*Oct 2023 – Jan 2027*)
+- 📜 **Certification:** [DataCamp Data Engineer Associate](https://www.datacamp.com) (*Issued Jun 2026*)
+
+---
+
+### 🛠 Tech Stack & Tools
+
+- **Languages:** Python 3.12+, SQL (PostgreSQL, DuckDB), Bash
+- **Data Engineering:** ETL/ELT Pipelines, Medallion Architecture (Bronze/Silver/Gold), Dimensional Modeling (Star Schema, Data Marts), Data Validation, Parquet
+- **DevOps & Developer Experience:** Docker & Docker Compose, Linux (WSL2), Git/GitHub, `uv`, `just`, Ruff, pytest
+
+---
+
+### 🚀 Featured Projects
+
+#### 🍃 [SmogWatch Poland](https://github.com/LonelyLake/smog-watch-poland)
+> **Resilient Air Quality Data Pipeline (OpenAQ API → Parquet → PostgreSQL)**
+
+- Built a local **Medallion Architecture** organizing raw API snapshots into sanitized, type-safe Parquet files (Bronze & Silver).
+- Implemented **exponential backoff retries** for API ingestion and schema validation for environmental anomaly filtering.
+- Ensured **idempotent batch loading** into PostgreSQL via composite primary keys and authored SQL analytical queries (WHO exceedances).
+- *Tech:* `Python`, `Pandas`, `PostgreSQL`, `Parquet`, `Docker`, `pytest`, `Just`, `Ruff`
+
+#### 📊 [SQL Data Engineering & Market Analysis](https://github.com/LonelyLake/sql-data-engineering-projects)
+> **Data Warehouse & Data Marts Build + DE Job Market Analytics in DuckDB**
+
+- Designed a normalized **Star Schema** data warehouse with incremental `MERGE` upsert patterns and built analytical data marts.
+- Conducted a data-driven analysis comparing **Junior DE skill demand and salaries in Poland vs. Global markets** using DuckDB.
+- *Tech:* `DuckDB`, `SQL (DDL/DML/MERGE)`, `Data Modeling`, `GCS (httpfs)`
+
+---
+
+### 📫 Connect with me
+
+- **LinkedIn:** [linkedin.com/in/starlitsky](https://linkedin.com/in/starlitsky)
