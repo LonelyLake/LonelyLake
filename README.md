@@ -1,9 +1,7 @@
 # Hi, I'm Maxim 👋
 
-**Junior Data Engineer & AI Research Intern at Łukasiewicz – AI**
-
-B.E. Informatics Student (Data Analysis Engineering) at Silesian University of Technology (PolSl).
-Junior Data Engineer building hands-on ETL pipelines and data infrastructure projects.
+**Junior Data Engineer** & **AI Research Intern** at **Łukasiewicz – AI**  
+Focusing on resilient ETL/ELT pipelines, dimensional data modeling, and robust data infrastructure.
 
 ---
 
