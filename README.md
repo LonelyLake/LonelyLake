@@ -5,17 +5,17 @@ Focusing on resilient ETL/ELT pipelines, dimensional data modeling, and robust d
 
 ### 🎓 Background & Certifications
 
-- 💼 **Current Role:** AI Research Intern @ Łukasiewicz – AI (R&D on AI agents & Python systems)
-- 🎓 **Education:** B.E. Informatics @ Silesian University of Technology (*Oct 2023 – Jan 2027*)
-- 📜 **Certification:** [DataCamp Data Engineer Associate](https://www.datacamp.com/certificate/DEA0010088572223)
+- **Current Role:** AI Research Intern @ Łukasiewicz – AI (R&D on AI agents & Python systems)
+- **Education:** B.E. Informatics @ Silesian University of Technology (*Oct 2023 – Jan 2027*)
+- **Certification:** [DataCamp Data Engineer Associate](https://www.datacamp.com/certificate/DEA0010088572223)
 
 ---
 
 ### 🛠 Tech Stack & Tools
 
-- **Languages:** Python 3.12+, SQL (PostgreSQL, DuckDB), Bash
-- **Data Engineering:** ETL/ELT Pipelines, Medallion Architecture, Dimensional Modeling (Star Schema, Data Marts), Data Validation, Parquet
-- **DevOps & Developer Experience:** Docker & Docker Compose, Linux, `uv`, `just`, Ruff, pytest
+- **Languages:** Python, SQL (PostgreSQL, DuckDB), Bash
+- **Data Engineering:** ETL/ELT Pipelines, Medallion Architecture, Dimensional Modeling, Data Validation, Parquet
+- **DevOps & Developer Experience:** Docker, Linux, `uv`, pytest, `just`
 
 ---
 
