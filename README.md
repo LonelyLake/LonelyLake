@@ -6,7 +6,7 @@ Focusing on resilient ETL/ELT pipelines, dimensional data modeling, and robust d
 
 ### 🎓 Background & Certifications
 
-- **Current Role:** AI Research Intern @ Łukasiewicz – AI (R&D on AI agents & Python systems)
+- **Current Role:** AI Research Engineering @ Łukasiewicz – AI
 - **Education:** B.E. Informatics @ Silesian University of Technology (*Oct 2023 – Jan 2027*)
 - **Certification:** [DataCamp Data Engineer Associate](https://www.datacamp.com/certificate/DEA0010088572223)
 
