@@ -35,7 +35,7 @@ Engineering thesis, team of 3: simulated e-commerce shop with Apriori-based reco
 * GitHub Flow with a protected `main` branch, pull requests and code reviews.
 
 #### [SQL Data Engineering & Market Analysis](https://github.com/LonelyLake/sql-data-engineering-projects)
-Course project (based on Luke Barousse's SQL course), extended with a Poland-specific market analysis
+Course project (based on [Luke Barousse's](https://www.linkedin.com/in/luke-b/) SQL course), extended with a Poland-specific market analysis
 
 * Star-schema data warehouse with incremental `MERGE` patterns and analytical data marts in DuckDB.
 * Added an analysis of Junior DE skill demand and salaries in Poland vs. the global market.
