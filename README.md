@@ -1,4 +1,4 @@
-**Junior Data Engineer & Analytics Engineer** 
+**Junior Data Engineer** 
 
 Focusing on ETL/ELT pipelines, data modeling, and data validation.
 
